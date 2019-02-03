@@ -1,3 +1,4 @@
 Network activity
-Push/Pull
+Push/Fetch
 GitHub classroom
+Permissions
